@@ -1,7 +1,7 @@
 # LGBT-Travel
 
-## Purpose:
+## Purpose
 This resource provides open information for LGBT+ travel.
-## License: 
+## License
 
-## Code of Conduct:
+## Code of Conduct
