@@ -1,4 +1,4 @@
-# LGBT-Travel
+# LGBT+ Travel
 
 ## Purpose
 This resource provides open information for LGBT+ travel.
