@@ -1,4 +1,4 @@
-# LGBT+ Travel
+# LGBT+ Student Studying Abroad
 
 ## Purpose
 This resource provides open information for LGBT+ travel specifically aimed at students
